@@ -1,9 +1,9 @@
 === Elite Afiliados Widget ===
 Contributors: M&aacute;rio Cecchi
-Tags: affiliates, links, blogroll, elite, top, fan-sites, fansites, button, buttons, banner, banners, exchange, brasil, português, portuguese
+Tags: affiliates, links, blogroll, elite, top, fan-sites, fansites, button, buttons, banner, banners, exchange, brasil, portugues, portuguese
 Requires at least: 2.7
 Tested up to: 2.8
-Stable tag: 1.0
+Stable tag: 1.0.1
 
 Controle os Elite Afiliados do seu site direto do painel do WordPress sem tocar no HTML e liste-os no seu tema usando &iacute;cones.
 
@@ -25,6 +25,9 @@ Como utilizar este plugin:
 1. Exemplo do plugin sendo usado com 9 colunas, &iacute;cones de 30x30px e 4px de espa&ccedil;amento entre eles.
 
 == Changelog ==
+
+= 1.0.1 =
+* Apenas uma correção
 
 = 1.0 =
 * Primeira vers&atilde;o. Suporte limitado.
