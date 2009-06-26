@@ -9,7 +9,7 @@ Controle os Elite Afiliados do seu site direto do painel do WordPress sem tocar 
 
 == Description ==
 
-Esse plugin foi feito para voc&ecirc; usar o pr&oeacute;prio painel do WordPress para editar seus links do tipo Elite Afiliados, mostrando-os com &iacute;cones. Geralmente se usa isso em f&atilde;-sites. Voc&ecirc; pode ver um exemplo no meu site [PortalDUFF.com](http://portalduff.com). Você pode mostr&aacute;-lo usando **widgets**, caso seu tema use, ou inserindo o c&oacute;digo direto no seu tema. Leia a se&ccedil;&atilde;o de instala&ccedil;&atilde;o para ver como us&aacute;-lo.
+Esse plugin foi feito para voc&ecirc; usar o pr&oeacute;prio painel do WordPress para editar seus links do tipo Elite Afiliados, mostrando-os com &iacute;cones. Geralmente se usa isso em f&atilde;-sites. Voc&ecirc; pode ver um exemplo no meu site [PortalDUFF.com](http://portalduff.com). Voc&ecirc; pode mostr&aacute;-lo usando **widgets**, caso seu tema use, ou inserindo o c&oacute;digo direto no seu tema. Leia a se&ccedil;&atilde;o de instala&ccedil;&atilde;o para ver como us&aacute;-lo.
 
 == Installation ==
 
