@@ -1,9 +1,9 @@
-<?php
+﻿<?php
 /*
 Plugin Name: Elite Afiliados
 Plugin URI: http://meriw.com/
 Description: Controle os Elite Afiliados do seu site direto do painel do WordPress sem tocar no HTML. Para suporte e detalhes do plugin, acesse o site.
-Version: 2.0
+Version: 1.0.1
 Author: Mário Cecchi
 Author URI: http://meriw.com/
 */
