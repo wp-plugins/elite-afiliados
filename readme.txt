@@ -1,5 +1,5 @@
 === Elite Afiliados Widget ===
-Contributors: M&aacute;rio Cecchi
+Contributors: Mario Cecchi
 Tags: affiliates, links, blogroll, elite, top, fan-sites, fansites, button, buttons, banner, banners, exchange, brasil, portugues, portuguese
 Requires at least: 2.7
 Tested up to: 2.8
