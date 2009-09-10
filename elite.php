@@ -2,15 +2,15 @@
 /*
 Plugin Name: Elite Afiliados
 Plugin URI: http://meriw.com/
-Description: Controle os Elite Afiliados do seu site direto do painel do WordPress sem tocar no HTML. Para suporte e detalhes do plugin, acesse o site.
-Version: 1.0.1
+Description: Controle os Elite Afiliados do seu site direto do painel de links do WP sem precisar tocar no HTML toda vez que adicionar um novo.
+Version: 1.1
 Author: Mário Cecchi
 Author URI: http://meriw.com/
 */
 
 function elite($colunas,$catid,$class="elite",$blank="blank.gif",$width=30,$height=30,$cellspacing=4) {
 	if (!$catid) { echo "Especifique a categoria dos links."; break; }
-	$bk = objectToArray(get_bookmarks("orderby=rating&order=DESC&category=$catid"));
+	$bk = objectToArrayElite(get_bookmarks("orderby=rating&order=DESC&category=$catid"));
 	$total = count($bk);
 	$nm = 1; $nm_t = 1;
 	if ($total > 0) {
@@ -46,7 +46,7 @@ function elite($colunas,$catid,$class="elite",$blank="blank.gif",$width=30,$heig
 	}
 }
 
-function objectToArray($object) {
+function objectToArrayElite($object) {
 	$arr = array();
 	for ($i = 0; $i < count($object); $i++) {
 		$arr[] = get_object_vars($object[$i]);
