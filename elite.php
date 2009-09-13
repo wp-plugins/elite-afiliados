@@ -1,10 +1,10 @@
-Ôªø<?php
+<?php
 /*
 Plugin Name: Elite Afiliados
-Plugin URI: http://meriw.com/
+Plugin URI: http://wordpress.org/extend/plugins/elite-afiliados/
 Description: Controle os Elite Afiliados do seu site direto do painel de links do WP sem precisar tocar no HTML toda vez que adicionar um novo.
-Version: 1.1
-Author: M√°rio Cecchi
+Version: 1.1.1
+Author: Mario Cecchi
 Author URI: http://meriw.com/
 */
 
@@ -92,7 +92,7 @@ function elite_control() {
   }
 ?>
 <p>
-    <label for="elite_widget_title">T√≠tulo </label>
+    <label for="elite_widget_title">TÌtulo </label>
     <input type="text" id="elite_widget_title" name="elite_widget_title" value="<?php echo $options['title'];?>" />
     
     <label for="elite_widget_colunas"><br>
@@ -106,19 +106,19 @@ function elite_control() {
     
   <label for="elite_widget_class">Classe (CSS) </label>
   <input name="elite_widget_class" type="text" id="elite_widget_class" value="<?php echo $options['class'];?>" /><br>
-  √çcone para links vazios
+  Õcone para links vazios
   <input name="elite_widget_blank" type="text" id="elite_widget_blank" value="<?php echo $options['blank'];?>" />
   <br />
-  <small>A imagem dever√° estar dentro da pasta <b>images</b> do seu tema.</small><br>
+  <small>A imagem dever· estar dentro da pasta <b>images</b> do seu tema.</small><br>
     <br>
-  <b>√çcones:</b><br>    
+  <b>Õcones:</b><br>    
   <label for="elite_widget_w">Largura </label>
     <input name="elite_widget_w" type="text" id="elite_widget_w" value="<?php echo $options['width'];?>" size="3" />
     
   <label for="elite_widget_h">Altura </label>
     <input name="elite_widget_h" type="text" id="elite_widget_h" value="<?php echo $options['height'];?>" size="3" /><br>
 
-  <label for="elite_widget_spacing">Espa√ßo entre os √≠cones </label>
+  <label for="elite_widget_spacing">EspaÁo entre os Ìcones </label>
     <input name="elite_widget_spacing" type="text" id="elite_widget_spacing" value="<?php echo $options['spacing'];?>" size="3" />
     
     
